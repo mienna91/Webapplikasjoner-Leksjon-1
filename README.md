@@ -13,6 +13,11 @@
 ### Flow chart
 ![Flow chart](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/flowchart_webapps1.png)
 
+## Oppgave 3
+### Wireframes
+#### Landing page
+![Landing page](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_wireflanding.png)
+
 ## Oppgave 4
 ### UML Diagram
 ![UML Diagram](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/Webapps1_UML.png)
