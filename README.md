@@ -13,6 +13,10 @@
 ### Flow chart
 ![Flow chart](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/flowchart_webapps1.png)
 
+## Oppgave 4
+### UML Diagram
+![UML Diagram](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/Webapps1_UML.png)
+
 ## Oppgave 5
 ### Trello
 ![Trello](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_trello.png)
