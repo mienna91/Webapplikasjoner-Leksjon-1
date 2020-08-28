@@ -21,6 +21,9 @@
 #### Create exam page
 ![Create exam](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_oppretteksamen.png)
 
+#### Exam overview
+![Overview](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_oppretteksamen.png)
+
 ## Oppgave 4
 ### UML Diagram
 ![UML Diagram](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/Webapps1_UML.png)
