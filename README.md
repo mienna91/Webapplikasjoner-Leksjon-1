@@ -24,6 +24,9 @@
 #### Exam overview
 ![Overview](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_eksamenoversikt.png)
 
+#### Participants overview
+![overview](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_deltakere.png)
+
 ## Oppgave 4
 ### UML Diagram
 ![UML Diagram](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/Webapps1_UML.png)
