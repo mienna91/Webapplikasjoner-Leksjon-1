@@ -12,3 +12,7 @@
 ## Oppgave 2
 ### Flow chart
 ![Flow chart](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/flowchart_webapps1.png)
+
+## Oppgave 5
+### Trello
+![Trello](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/webapps1_trello.png)
