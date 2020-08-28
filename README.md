@@ -8,3 +8,7 @@
 3. As a exam participant, i want to see how many questions i have answered and how many is left, to maintain overview.
 4. As an administrator, i want to save an exam as template, so it can be used later on.
 5. As a exam participant, i want to store my personalia on my personal profile page, to use them in other exams.
+
+## Oppgave 2
+### Flow chart
+![Flow chart](https://github.com/mienna91/Webapplikasjoner-Leksjon-1/blob/master/flowchart_webapps1.png)
